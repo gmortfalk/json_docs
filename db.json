@@ -1,0 +1,11 @@
+{
+  "releasenotes": [
+    { "version": "0.2", "date": "2019-12-13", "title": "Release Notes", "url": "https://www.adobe.com/content/dam/acom/en/devnet/pdf/pdfs/pdf_reference_archives/PDFReference.pdf"},
+    { "version": "0.1", "date": "2019-12-02", "title": "Release Notes", "url": "https://www.adobe.com/content/dam/acom/en/devnet/pdf/pdfs/pdf_reference_archives/PDFReference.pdf"},
+    { "version": "0.0.1", "date": "2019-11-20", "title": "Release Notes", "url": "https://www.adobe.com/content/dam/acom/en/devnet/pdf/pdfs/pdf_reference_archives/PDFReference.pdf"}
+  ],
+  "otherdocs": [
+    { "version": "0.1b", "date": "2019-12-03", "title": "Tutorial", "url": "https://www.adobe.com/content/dam/acom/en/devnet/pdf/pdfs/pdf_reference_archives/PDFReference.pdf"},
+    { "version": "0.2", "date": "2019-04-25", "title": "Notes", "url": "https://www.adobe.com/content/dam/acom/en/devnet/pdf/pdfs/pdf_reference_archives/PDFReference.pdf"}
+  ],
+}
