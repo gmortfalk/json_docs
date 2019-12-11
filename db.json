@@ -1,5 +1,6 @@
 {
   "releasenotes": [
+    { "version": "1.0.10.6", "date": "2019-12-16", "title": "FalkTools Release Notes", "url": "https://falk-document-store.s3.amazonaws.com/FalkTools+Release+Notes_1.0.10.6_10Dec19.pdf"},
     { "version": "1.0.10.0", "date": "2019-11-19", "title": "FalkTools Release Notes", "url": "https://falk-document-store.s3.amazonaws.com/FalkTools+Release+Notes_1.0.10.0_27Nov19.pdf"},
     { "version": "1.0.9.2", "date": "2019-10-03", "title": "FalkTools Release Notes", "url": "https://falk-document-store.s3.amazonaws.com/FalkTools+Release+Notes_1.0.9.2_03Oct19.pdf"},
     { "version": "1.0.9.1", "date": "2019-09-30", "title": "FalkTools Release Notes", "url": "https://falk-document-store.s3.amazonaws.com/FalkTools+Release+Notes_1.0.9.1_30Sep19.pdf"},
